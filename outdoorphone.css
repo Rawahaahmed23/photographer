@@ -1,0 +1,32 @@
+
+
+@media (max-width:1880px){
+   
+  .images{
+      
+    display: block;
+    margin: auto;
+    height: 28rem;
+    width: 36em;
+    margin-top: 25px;
+  
+ 
+ 
+   
+  } 
+}
+
+
+@media (max-width:700px){
+.images{
+     display: block;
+     margin: auto;
+     width: 14rem;
+     height: 15rem;
+     padding: 19px 23px;
+    }
+#heading h1{
+      font-size: 51px;
+}
+}
+

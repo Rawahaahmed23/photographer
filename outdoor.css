@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+
+#heading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 59px 22px;
+}
+#heading h1{
+    color: white;
+    font-size: 76px;
+}
+
+.container{
+    display: block;
+}
+
+.images {
+    margin: 19px 40px;
+    display: inline-block;
+    width: 37rem;
+    height: 34rem;
+    padding: 19px 12px;}
+
